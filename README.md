@@ -1,4 +1,4 @@
-# Trabajo-Practico-6-Grupo-4_Fern-ndezCalder-n_NespolaMangariello
+# Trabajo-Practico-6-Grupo-4_FernándezCalderón_NespolaMangariello
 Este repositorio contiene la implementación del **Punto 3** del Trabajo Práctico N.º 6 de la materia **Informática Médica (16.22)** de la carrera de Bioingeniería.
 
 El objetivo principal de este trabajo es demostrar cómo utilizar el estándar **FHIR** mediante programación en **Python**, generando recursos clínicos estructurados e interoperables. Para ello, se utiliza la librería `fhir.resources` junto con `requests`, y se trabaja con el servidor público de **HAPI FHIR**.
