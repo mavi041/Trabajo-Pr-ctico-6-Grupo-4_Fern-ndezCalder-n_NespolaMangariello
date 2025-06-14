@@ -52,3 +52,7 @@ Se creó un recurso `CareTeam` con:
 - Participante: una médica cardióloga con rol clínico asignado
 
 ---
+
+## Integrantes: 
+- Luciana Fernández Calderón (62118)
+- María Victoria Nespola Mangariello (62687)
