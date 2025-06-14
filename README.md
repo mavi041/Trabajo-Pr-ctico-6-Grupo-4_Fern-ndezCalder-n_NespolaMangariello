@@ -7,7 +7,7 @@ El objetivo principal de este trabajo es demostrar cómo utilizar el estándar *
 
 ## Contenidos del repositorio
 
-### 📁 Archivos principales:
+### Archivos principales:
 
 - `patient_creator.py`:  
   Contiene una función para crear un recurso `Patient`, con atributos como nombre, género, fecha de nacimiento, teléfono e identificador (DNI). Este recurso puede imprimirse en JSON o subirse al servidor HAPI.
@@ -25,7 +25,7 @@ El objetivo principal de este trabajo es demostrar cómo utilizar el estándar *
 
 ---
 
-## 📌 Actividades implementadas (TP6 - Punto 3)
+## Actividades implementadas (TP6 - Punto 3)
 
 ### a. Crear un recurso Patient
 
